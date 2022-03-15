@@ -12,3 +12,14 @@
 - [使用 Postman 探索 VMware API - Part 1](https://hackmd.io/@farmer87/postman_vsphere_01)
 - [VMware vRealize Operations 和 vRealize Log Insight 教育訓練資料分享](https://gitlab.com/farmer871/vrops)
 
+## 學習及認證徽章
+- [Badges - Credly](https://www.credly.com/users/chung-liang-chu/badges)
+- [Badges - Cloud Skill](https://www.cloudskillsboost.google/public_profiles/3200dbae-ce8f-4fcc-9067-5fb1a42da581)
+
+## PDF 附件
+- 使用簡單的 BASH 腳本檔擷取設備狀態資訊
+- 測試 VMware vCenter 的 Log4Shell 漏洞
+- 使用 OVFTool 工具佈署 NSX ALB Controller
+- 使用 Postman 探索 VMware API - Part 1
+- VMware Certified Advanced Professional - Data Center Virtualization Deploy 2019 (VCAP-DCV Deploy 2019)
+- VMware Certified Professional - Data Center Virtualization 2019 (VCP-DCV 2019)
